@@ -5,7 +5,7 @@ StockSage is a powerful financial stock assistant chatbot designed to provide re
 Real-Time Stock Analysis: Get the latest stock price, calculate moving averages, RSI, MACD, and plot stock prices over the last year.
 Interactive Conversations: Engage in interactive conversations with the chatbot using natural language to query stock-related information.
 Remote Access: The chatbot is accessible remotely through a Streamlit web application, making it convenient for users to use from anywhere.
-How It Works
+# How It Works
 The StockSage chatbot leverages OpenAI's GPT-3.5 model to interpret user queries and provide relevant responses. The chatbot offers a set of predefined functions for performing various stock analysis tasks, including retrieving stock prices, calculating technical indicators, and plotting stock price charts.
 
 Here's a high-level overview of how the chatbot works:
